@@ -23,3 +23,15 @@
 *(simple structure – only Main.java used so far)*
 
 
+💡 Mögliche Erweiterungen / Future Improvements
+Deutsch	English
+💾 Kontostand speichern	💾 Save balance between sessions
+👤 Benutzerkonto / Login-System	👤 User accounts / login system
+🧾 Transaktionsverlauf	🧾 Transaction history
+🧱 Objektorientierte Struktur	🧱 Refactor to object-oriented design
+🎯 Ziel / Purpose
+Deutsch	English
+Zweites Java-Lernprojekt – einfache ATM-Simulation	Second Java learning project – simple ATM simulation
+Übung mit Scanner, if/switch und Konsolenmenüs	Practice using Scanner, if/switch, and console menus
+Erste Erfahrung mit Git & GitHub sammeln	Gain first experience with Git & GitHub
+Grundlage für zukünftige objektorientierte Projekte	Foundation for future object-oriented programming (OOP)
