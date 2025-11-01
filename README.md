@@ -1,6 +1,7 @@
 # 💳 Geldautomat (ATM) – Java Konsolenanwendung
 
-**Sprache / Language:** Deutsch 
+**Sprache / Language:** Deutsch
+
 **Autor:** Önder Demir  
 **Projektart:** Zweites Java-Projekt
 
