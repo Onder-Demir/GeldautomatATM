@@ -46,5 +46,3 @@
 | Grundlage für zukünftige objektorientierte Projekte | Foundation for future object-oriented programming (OOP)  |
 
 ---
-
-**☕ Entwickelt mit Motivation & Kaffee – by Önder Demir**
