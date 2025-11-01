@@ -15,5 +15,4 @@
 
 ---
 
-## 📂 Projektstruktur
 
